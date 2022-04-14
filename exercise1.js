@@ -45,4 +45,8 @@ if (true) {
 }
 alert(a);
 
-// AGREGANDO ALGO NUEVO PARA PROBAR GITHUB.
+const titulo (){
+    let texto = `este es el titulo`;
+    console.log(texto);
+}
+//GREGANDO ALGO NUEVO PARA PROBAR GITHUB.
